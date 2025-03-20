@@ -107,7 +107,7 @@ const Footer: React.FC = () => {
         
         <div className="border-t mt-8 pt-8 text-center">
           <p className="text-sm text-muted-foreground">
-            © {new Date().getFullYear()} МуниципалСервис. Все права защищены Джамалом Джалаудиновом.
+            © {new Date().getFullYear()} МуниципалСервис. Все права защищены Джамалом.
           </p>
         </div>
       </div>
